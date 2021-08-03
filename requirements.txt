@@ -1,0 +1,13 @@
+praw>=7.3.0
+moviepy>=1.0.3
+wand>=0.6.6
+spacy>=3.1.1
+pyttsx3>=2.90
+google-api-python-client
+youtube-uploader-selenium-aug==1.1
+ffmpeg-python>=0.2.0
+prawcore>=2.3.0
+Google-Images-Search>=1.3.8
+google-auth-oauthlib>=0.4.5
+oauth2client
+imgkit>=1.2.2

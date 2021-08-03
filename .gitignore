@@ -112,3 +112,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Custom
+*.wav
+*.mp4
+*.pkl
+*.pickle
+*.mp3
+client_secret.json
