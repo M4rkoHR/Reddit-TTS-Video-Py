@@ -32,7 +32,7 @@ def createVideo(v_length=603, sub="askreddit", top="month"):
         if skipped<index:
             skipped+=1
             continue
-        title="\n".join(tw.wrap(submission.title, width=screensize[0]/24))
+        title="\n".join(tw.wrap(submission.title, width=screensize[0]/30))
         try:
             op="u/"+submission.author.name
         except:
